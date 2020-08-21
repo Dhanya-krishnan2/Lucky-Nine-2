@@ -28,7 +28,7 @@
 `` This application is prepared by our team called Lucky-nine. As a part of our project 2 we developed app called ECO-MEETUP Which utilised the requiremens of our project that is node js, Express server, Express handlebars as templating engine and used MYSQL Database with a sequelize ORM, used GET, post routed for retrieving and adding new data. Eco-meetup is successfully deployed in Heroku, and the UI we used quite appealing, and this application used the MVC paradigm successfully. Our naming structure and scoping, indentation all met the good quality. ``
 
 
-##Presentation Requirements
+## Presentation Requirements
 
  `This our google document presentation`
  

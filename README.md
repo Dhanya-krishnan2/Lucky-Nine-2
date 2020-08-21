@@ -53,8 +53,10 @@
 
  The  application has MVC Paradigm and which allow us to code very neatly and model of this application consists of objects and view is the representational form of model, and it does the presentation part and it updates model by sending appropriate information and it communicates with the user. The controller links the user and the system. The functional flow of this app is organiser organise and event and then they need to fill the details of all sorts in to the section provided and in order to do that they need to sign up or login if they are the member already and the attendee will join an even by signing in and finds the information about the event happening near by and join. Organiser able to delete an event at any point by clicking the delete button. By using the file called passport.js it is authentication tool fot to check the email and password whether they entering wrong email or passpord and get the message accordingly. The model folder has got all the database part about details of the event, event participants etc. Here the app used the technology of sequelize ORM. In the public folder all the HTML, CSS, JS organised. The server.js communicates with the port provided by using all the functionalities of the MVC paradigm.
 </p1>
-
-
+# The output images are uploaded here
+![](/public/images/2020-08-21%20(1).png)
+![](/public/images/2020-08-21%20(2).png)
+![](/public/images/2020-08-21.png)
 
 
 

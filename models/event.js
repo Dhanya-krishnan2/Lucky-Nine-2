@@ -1,5 +1,5 @@
 var Sequelize = require('sequelize');
-
+// creating seeds by using sequalize and describing the information the organiser added for the details
 module.exports = function(sequelize, DataTypes) {
     const Event = sequelize.define("Event", {
         title: {
